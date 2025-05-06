@@ -4,3 +4,7 @@ type = "javascript"
 account_id = "8fce224d2f54e668f21c1f9c4ff9b634"
 workers_dev = true
 compatibility_date = "2025-05-06"
+
+[[kv_namespaces]]
+binding = "test22"
+id = "0f7ae89fd46447debf09713ae266561e"
