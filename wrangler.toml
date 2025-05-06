@@ -1,0 +1,6 @@
+name = "hidify-worker"  
+type = "javascript"
+
+account_id = "8fce224d2f54e668f21c1f9c4ff9b634"
+workers_dev = true
+compatibility_date = "2025-05-06"
